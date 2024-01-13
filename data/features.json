@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Incrementa ventas, anticipando las necesidades de tus clientes",
+    "description": "Ofrece justo el producto correcto en el momento correcto a través de sistemas de recomendación",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "Mejora tu NPS interno",
+    "description": "Desata la productividad de tu equipo con agentes GPT entrenados en tu data privada, sin sacrificar privacidad de datos",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "Gana clientes leales",
+    "description": "Mejora el rendimiento de tu equipo de soporte con IA",
+    "icon": "icon-github"
+  }
+]
